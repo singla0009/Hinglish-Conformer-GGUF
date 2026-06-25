@@ -2,13 +2,17 @@
 
 Welcome to the GitHub homepage for the highly optimized **GGUF** (float32) conversion of the `parthiv11/stt_hi_conformer_ctc_large_v2` model, a Conformer-CTC Automatic Speech Recognition (ASR) model specifically trained for **Hindi and Hinglish** (code-switched Hindi-English) speech.
 
-🚀 **[DOWNLOAD THE MODEL FROM HUGGING FACE HERE](https://huggingface.co/Singla0009/Hinglish-Conformer-GGUF)** 🚀
+**[Download the Model from Hugging Face Here](https://huggingface.co/Singla0009/Hinglish-Conformer-GGUF)**
 
 ---
 
-⚡ **Powered by CAPIT** ⚡  
-These highly-optimized `.gguf` models were explicitly designed and converted to be used seamlessly with **CAPIT**, our blazing-fast, privacy-first desktop transcription application. CAPIT is a state-of-the-art Rust & Tauri native app built by our team that lets you run these massive AI models entirely offline on your local machine with an incredible user interface.  
-👉 **[Check out the CAPIT App on our GitHub!](https://github.com/singla0009)**
+### 💻 Integrates perfectly with CAPIT
+This model was explicitly converted and optimized to be run inside **CAPIT**—our custom desktop transcription software. 
+
+**What is CAPIT?**
+CAPIT is a fully offline, high-speed transcription application. It is built using Rust and Tauri, meaning it is incredibly lightweight, fast, and 100% private (no audio is ever sent to the cloud). Instead of writing python code or using terminal commands, you can simply load this model into the CAPIT desktop app and transcribe audio instantly with a beautiful user interface.
+
+**[Check out the CAPIT Desktop App Here!](https://github.com/singla0009)**
 
 ---
 
